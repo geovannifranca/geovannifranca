@@ -24,4 +24,4 @@
   <a href="https://www.linkedin.com/in/geovanni-de-fran%C3%A7a-silva-5460931b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannifranca&bg_color=06070a&color=b8cfff&line=6495ed&point=4b6aaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannifranca&bg_color=#D1117a&color=b8cfff&line=6495ed&point=4b6aaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
