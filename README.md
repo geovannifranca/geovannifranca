@@ -4,16 +4,6 @@
 
 </div>
 
----
-
-## Sobre mim
-
-Desenvolvedor mobile com foco em **Flutter** e **Dart**, apaixonado por criar aplicações multiplataforma com experiências de usuário fluidas e performáticas. Tenho background em desenvolvimento front-end web (HTML, CSS, JavaScript) e estou em constante evolução na criação de arquiteturas escaláveis para apps mobile.
-
-Atualmente aprofundando conhecimentos em arquitetura de software mobile, padrões como Clean Architecture e boas práticas de desenvolvimento com Flutter.
-
----
-
 ## 🛠️ Stack de Tecnologias
 
 ### Mobile
