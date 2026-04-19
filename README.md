@@ -1,29 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Geovanni+Franca;I'm+26+years+old;I'm+from+Brazil;I'+m+dev+mobile;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Geovanni%20França&fontSize=48&fontColor=4fc3f7&fontAlignY=38&desc=Mobile%20Developer%20·%20Flutter%20%7C%20Dart&descAlignY=58&descColor=90caf9" width="100%"/>
 
-
-<div>
-  <a href="https://github.com/geovannifranca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannifranca&theme=transparent&show_icons=true&hide_border=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannifranca&theme=transparent&show_icons=true&hide_border=true&layout=compact">
 </div>
 
-<div  align="center"><br>
-  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="Geo-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+---
+
+## Sobre mim
+
+Desenvolvedor mobile com foco em **Flutter** e **Dart**, apaixonado por criar aplicações multiplataforma com experiências de usuário fluidas e performáticas. Tenho background em desenvolvimento front-end web (HTML, CSS, JavaScript) e estou em constante evolução na criação de arquiteturas escaláveis para apps mobile.
+
+Atualmente aprofundando conhecimentos em arquitetura de software mobile, padrões como Clean Architecture e boas práticas de desenvolvimento com Flutter.
+
+---
+
+## 🛠️ Stack de Tecnologias
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Front-end Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Ferramentas & Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovannifranca&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannifranca&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovannifranca&theme=tokyonight&hide_border=true)
+
 </div>
 
-##
- 
-<div  align="center"> 
-  <a href="https://instagram.com/geovanni_fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/geovannifr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:geovannidefranca98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geovanni-de-fran%C3%A7a-silva-5460931b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+## 📚 Formação & Aprendizado
+
+| Instituição | Foco | Status |
+|---|---|---|
+| **GrowDev** | Flutter Avançado | Em andamento |
+| **NAVIT** | Flutter Avançado | Concluído
+| **B7Web** | HTML, CSS, Flexbox, Front-end | Concluído
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovannidefranca/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geovanni_fr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovannidefranca98@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/geovannifr)
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannifranca&bg_color=0D1117a&color=b8cfff&line=6495ed&point=4b6aaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannifranca&bg_color=1a1b27&color=4fc3f7&line=4fc3f7&point=90caf9&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+</div>
