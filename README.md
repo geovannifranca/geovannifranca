@@ -43,20 +43,7 @@
 | **NAVIT** | Flutter Avançado | Concluído
 | **B7Web** | HTML, CSS, Flexbox, Front-end | Concluído
 
----
-
-## 🌐 Onde me encontrar
 
 
 
----
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannifranca&bg_color=1a1b27&color=4fc3f7&line=4fc3f7&point=90caf9&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
-</div>
