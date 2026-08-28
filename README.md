@@ -21,19 +21,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovannifranca&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannifranca&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovannifranca&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📚 Formação & Aprendizado
 
